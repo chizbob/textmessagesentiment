@@ -1,4 +1,4 @@
-# text message spam or not
+# Spam or not
 
 
 
@@ -8,10 +8,12 @@ To do this:
 
 1. Read the raw text data
 2. Clean the text and tokenized 
-3. Created features
+3. Created features*
 4. Fit them into 2 models - Random Forest, Gradient Boosting)
 5. Tune and evaluated grid search cross validation 
 6. Decide which model works best 
+
+* For feature, I used count vectorizer and tf-idf vectorizer. Also punctiation ratio and text message length were used as additional features. 
 
 **Results**: 
 Random forest (RF) - 
