@@ -23,4 +23,4 @@ Gradient boosting (GB) -
 fit time: 31.55548596382141, predict time: 0.016566991806030273, precision: 0.8888888888888888, recall: 0.8827586206896552, accuracy: 0.9703770197486535
 
 **Conclusion**:
-Even though GB took much lonter to git, it was shorter to predict than RF. However GB's precision was lower than RF. RF's recall was slightly lower than GB. We can select the model depending what metric we prioritize more. 
+Even though GB took much longer to fit, it was shorter to predict than RF. However GB's precision was lower than RF. RF's recall was slightly lower than GB. We can select the model depending what metric we prioritize more. 
