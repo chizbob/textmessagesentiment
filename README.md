@@ -24,3 +24,6 @@ fit time: 31.55548596382141, predict time: 0.016566991806030273, precision: 0.88
 
 **Conclusion**:
 Even though GB took much longer to fit, it was shorter to predict than RF. However GB's precision was lower than RF. RF's recall was slightly lower than GB. We can select the model depending what metric we prioritize more. 
+
+
+Data source: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
