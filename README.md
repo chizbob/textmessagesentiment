@@ -13,7 +13,7 @@ To do this:
 5. Tune and evaluated grid search cross validation 
 6. Decide which model works best 
 
-* For feature, I used count vectorizer and tf-idf vectorizer. Also punctiation ratio and text message length were used as additional features. 
+* For feature, I used count vectorizer and tf-idf vectorizer. Also punctuation ratio and text message length were used as additional features. 
 
 **Results**: 
 Random forest (RF) - 
